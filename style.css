@@ -1,0 +1,14 @@
+.nav-c{
+    color: aliceblue;
+}
+.head{
+    text-align: center;
+
+}
+.carousel-item img {
+    height: 550px;       
+    object-fit: cover;   
+}
+footer a:hover {
+    color: #0d6efd;
+}
